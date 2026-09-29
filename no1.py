@@ -1,5 +1,5 @@
 # numéro 4.1 Marchand
-
+#
 
 # Ce programe permet de déterminer quel type d'achat est le plus avantageux entre trois format.
 # Il permet également de calculer le coût final de chacun des formats après certains rabais et l'économie réalisé par rapport à l'achat en vrac
